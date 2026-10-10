@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"独立站建站专家：从选品页到结账的开店流水线（选品页→产品页→结账流程→信任元素→发布自检），31 条确定性规则把关","name":"lhg-shopify","source":"./"}]}
